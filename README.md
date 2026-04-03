@@ -204,7 +204,20 @@ uvicorn main:app --reload --port 8000
 
 ## 📸 Screenshots
 
-*Add your UI screenshots here*
+### Login
+![Login](./screenshots_MedLink/login.png)
+
+### Dashboard
+![Dashboard](./screenshots_MedLink/dashboard.png)
+
+### Billing
+![Billing](./screenshots_MedLink/Billing.png)
+
+### Reports
+![Reports](./screenshots_MedLink/Reports.png)
+
+## 📸 AI Query
+![AI Query](./screenshots_MedLink/AI_Query.png)
 
 ---
 
