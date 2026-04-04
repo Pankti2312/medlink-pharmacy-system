@@ -229,7 +229,7 @@ Run the backend server and open:
   
 ---
 ## 🌐 Live Demo
-Coming soon
+![Project Demo](screenshots_MedLink/medlink_demo.gif)
 
 ## ⭐ Why This Project Stands Out
 
